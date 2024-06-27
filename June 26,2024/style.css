@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(to right top, #8a6bd1, #9970d6, #a875da, #b67ade, #c47fe2, #de7ad1, #f278bf, #ff7aac, #ff887b, #ffac46, #e2d629, #88fb5f);
+ 
+}
+.Ingredients{
+    text-align: left; 
+    color: rgb(114, 216, 55);
+}
+.Instructions{
+    color: rgb(255, 206, 127);
+}
